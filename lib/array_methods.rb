@@ -1,6 +1,6 @@
 def using_include(array, element)
   fruity_fruits = ["apples", "oranges", "kiwis", "bananas"]
-  fruity_fruits.include?("plumbs","apples")
+  fruity_fruits.include?("apples")
 
 end
 
