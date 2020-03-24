@@ -1,4 +1,6 @@
 def using_include(array, element)
+  fruity_fruits = ["apples", "oranges", "kiwis", "bananas"]
+  
 
 end
 
